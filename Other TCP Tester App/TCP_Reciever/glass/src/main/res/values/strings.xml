@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TCP_Reciever</string>
+    <string name="title_activity_reciever">Hello World Immersion</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
